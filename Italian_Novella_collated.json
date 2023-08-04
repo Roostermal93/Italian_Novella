@@ -1,1 +1,35 @@
-ew0KICAgICJjb3VudCI6IDQsDQogICAgIm5leHQiOiBudWxsLA0KICAgICJwcmV2aW91cyI6IG51bGwsDQogICAgInJlc3VsdHMiOiBbDQogICAgICAgIHsNCiAgICAgICAgICAgICJpZCI6ICI1N2YzOGVmOC0yZDAwLTQyZjMtYmVmYy1lMGY1NGYwNmJhZTciLA0KICAgICAgICAgICAgImNvbGxlY3Rpb25JZCI6ICJJdGFsaWFuIiwNCiAgICAgICAgICAgICJ0eXBlIjogIk5vdmVsbGEiLA0KICAgICAgICAgICAgInN0YXR1cyI6ICJwcml2YXRlIiwNCiAgICAgICAgICAgICJ2aWRlb1VybCI6ICJodHRwczovL3d3dy50aGVhcnRvZmRyb3duaW5nLmNvbS9BSUNvbnRlbnQvTm92ZWxsYS9JdGFsaWFuLzU3ZjM4ZWY4LTJkMDAtNDJmMy1iZWZjLWUwZjU0ZjA2YmFlNy81N2YzOGVmOC0yZDAwLTQyZjMtYmVmYy1lMGY1NGYwNmJhZTcubXA0Ig0KICAgICAgICB9LA0KICAgICAgICB7DQogICAgICAgICAgICAiaWQiOiAiYjQxMTQ4ZWItM2JjNC00NGRkLTllZDAtNmU0YzA0Njc2NzZmIiwNCiAgICAgICAgICAgICJjb2xsZWN0aW9uSWQiOiAiSXRhbGlhbiIsDQogICAgICAgICAgICAidHlwZSI6ICJOb3ZlbGxhIiwNCiAgICAgICAgICAgICJzdGF0dXMiOiAicHJpdmF0ZSIsDQogICAgICAgICAgICAidmlkZW9VcmwiOiAiaHR0cHM6Ly93d3cudGhlYXJ0b2Zkcm93bmluZy5jb20vQUlDb250ZW50L05vdmVsbGEvSXRhbGlhbi9iNDExNDhlYi0zYmM0LTQ0ZGQtOWVkMC02ZTRjMDQ2NzY3NmYvYjQxMTQ4ZWItM2JjNC00NGRkLTllZDAtNmU0YzA0Njc2NzZmLm1wNCINCiAgICAgICAgfSwNCiAgICAgICAgew0KICAgICAgICAgICAgImlkIjogImFjYjQyMDRhLWVmYmItNDEwNS05MGJmLWY1YjJiODQ5ODhlYyIsDQogICAgICAgICAgICAiY29sbGVjdGlvbklkIjogIkl0YWxpYW4iLA0KICAgICAgICAgICAgInR5cGUiOiAiTm92ZWxsYSIsDQogICAgICAgICAgICAic3RhdHVzIjogInByaXZhdGUiLA0KICAgICAgICAgICAgInZpZGVvVXJsIjogImh0dHBzOi8vd3d3LnRoZWFydG9mZHJvd25pbmcuY29tL0FJQ29udGVudC9Ob3ZlbGxhL0l0YWxpYW4vYWNiNDIwNGEtZWZiYi00MTA1LTkwYmYtZjViMmI4NDk4OGVjL2FjYjQyMDRhLWVmYmItNDEwNS05MGJmLWY1YjJiODQ5ODhlYy5tcDQiDQogICAgICAgIH0sDQogICAgICAgIHsNCiAgICAgICAgICAgICJpZCI6ICJlYTZiOGJiYi05ODIwLTQ2YTgtOTYzYy02N2I4ZWZhODU4M2MiLA0KICAgICAgICAgICAgImNvbGxlY3Rpb25JZCI6ICJJdGFsaWFuIiwNCiAgICAgICAgICAgICJ0eXBlIjogIk5vdmVsbGEiLA0KICAgICAgICAgICAgInN0YXR1cyI6ICJwcml2YXRlIiwNCiAgICAgICAgICAgICJ2aWRlb1VybCI6ICJodHRwczovL3d3dy50aGVhcnRvZmRyb3duaW5nLmNvbS9BSUNvbnRlbnQvTm92ZWxsYS9JdGFsaWFuL2VhNmI4YmJiLTk4MjAtNDZhOC05NjNjLTY3YjhlZmE4NTgzYy9lYTZiOGJiYi05ODIwLTQ2YTgtOTYzYy02N2I4ZWZhODU4M2MubXA0Ig0KICAgICAgICB9DQogICAgXQ0KfQ==
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "57f38ef8-2d00-42f3-befc-e0f54f06bae7",
+            "collectionId": "Italian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Italian/Italian_Novella/57f38ef8-2d00-42f3-befc-e0f54f06bae7/57f38ef8-2d00-42f3-befc-e0f54f06bae7_it_Male.mp4"
+        },
+        {
+            "id": "b41148eb-3bc4-44dd-9ed0-6e4c0467676f",
+            "collectionId": "Italian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Italian/Italian_Novella/b41148eb-3bc4-44dd-9ed0-6e4c0467676f/b41148eb-3bc4-44dd-9ed0-6e4c0467676f_it_Female.mp4"
+        },
+        {
+            "id": "acb4204a-efbb-4105-90bf-f5b2b84988ec",
+            "collectionId": "Italian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Italian/Italian_Novella/acb4204a-efbb-4105-90bf-f5b2b84988ec/acb4204a-efbb-4105-90bf-f5b2b84988ec_it_Female.mp4"
+        },
+        {
+            "id": "ea6b8bbb-9820-46a8-963c-67b8efa8583c",
+            "collectionId": "Italian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Italian/Italian_Novella/ea6b8bbb-9820-46a8-963c-67b8efa8583c/ea6b8bbb-9820-46a8-963c-67b8efa8583c_it_Male.mp4"
+        }
+    ]
+}
